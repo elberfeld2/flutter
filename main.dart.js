@@ -35506,13 +35506,14 @@ t.push(Y.WM(!1,H.b([new U.bb(r,!1,!0,r,r,r,!1,s,r,C.l,r,!1,!1,r,C.u)],u.A),"The 
 t.push(new U.mn("",!1,!0,r,r,r,!1,r,C.a9,C.l,"",!0,!1,r,C.bq))
 return!1}return!0}}
 F.u4.prototype={
-K:function(a){return new S.n5(new F.nj("Hola",null),"Flutter Demo",X.SI(null,C.v9,X.YF()),null)}}
+K:function(a){var t="Aplicacion"
+return new S.n5(new F.nj(t,null),t,X.SI(null,C.v9,X.YF()),null)}}
 F.nj.prototype={
 aK:function(){return new F.pq(C.o)}}
 F.pq.prototype={
 Ct:function(){this.aH(new F.LQ(this))},
 K:function(a){var t=null,s=L.Jd(this.a.c,t)
-return new M.o0(new E.lG(s,new P.an(1/0,56),t),new T.hP(C.az,t,t,T.WB(H.b([L.Jd("Modificando :",t),L.Jd(""+this.d,K.bt(a).y2.d)],u.t),C.nX),t),E.RB(L.RI(C.te),!1,this.gCs(),"Increment"),t)}}
+return new M.o0(new E.lG(s,new P.an(1/0,56),t),new T.hP(C.az,t,t,T.WB(H.b([L.Jd("Preciona el circulo con el mas para aumentar el numero :",t),L.Jd(""+this.d,K.bt(a).y2.d)],u.t),C.nX),t),E.RB(L.RI(C.te),!1,this.gCs(),"Increment"),t)}}
 F.LQ.prototype={
 $0:function(){var t=this.a
 P.hz("Probando "+C.h.i(t.d));++t.d},
