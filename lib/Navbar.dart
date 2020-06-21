@@ -93,14 +93,14 @@ class MobileNavbar extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  "Home",
+                  "Inicio",
                   style: TextStyle(color: Colors.white),
                 ),
                 SizedBox(
                   width: 30,
                 ),
                 Text(
-                  "About Us",
+                  "Acerca de mi",
                   style: TextStyle(color: Colors.white),
                 ),
                 SizedBox(
