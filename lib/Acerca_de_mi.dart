@@ -1,30 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'LandingPage.dart';
 import 'Navbar.dart';
 
-void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Aplicacion',
-      theme: ThemeData(
-  
-        primarySwatch: Colors.red ,
-        
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      home: MyHomePage(),
-    );
-  }
-}
-
-class MyHomePage extends StatelessWidget {
+class Acerca extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     
@@ -46,7 +24,7 @@ class MyHomePage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(
                     vertical: 20.0, horizontal: 40.0),
-                child: LandingPage(),
+                child: Text("Hola"),
               )
             ],
           ),
