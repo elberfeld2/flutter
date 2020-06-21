@@ -38491,7 +38491,7 @@ $0:function(){},
 $S:0}
 V.vg.prototype={
 M:function(a){var t=null,s=u.t
-return new T.d1(C.f5,M.jT(t,T.tr(H.b([L.dt("RetroPortal Studio",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,30,t,C.b8,t,t,!0,t,t,t,t,t,t)),new T.d1(C.tk,T.K5(H.b([L.dt("Home",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)),new T.e2(30,t,t,t),L.dt("About Us",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)),new T.e2(30,t,t,t),L.dt("Portfolio",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t))],s),C.l8),t)],s),C.bY),t,t,t,t,t,t),t)}}
+return new T.d1(C.f5,M.jT(t,T.tr(H.b([L.dt("RetroPortal Studio",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,30,t,C.b8,t,t,!0,t,t,t,t,t,t)),new T.d1(C.tk,T.K5(H.b([L.dt("Inicio",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)),new T.e2(30,t,t,t),L.dt("Acerca de mi",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)),new T.e2(30,t,t,t),L.dt("Portfolio",A.cs(t,t,C.j,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t))],s),C.l8),t)],s),C.bY),t,t,t,t,t,t),t)}}
 F.vl.prototype={
 M:function(a){return new S.nV(new F.vm(null),"Aplicacion",X.Vs(null,C.oh,X.a0N()),null)}}
 F.vm.prototype={
