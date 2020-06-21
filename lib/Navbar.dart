@@ -63,10 +63,7 @@ class DesktopNavbar extends StatelessWidget {
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.all(Radius.circular(20.0))),
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => MyHomePage())
-                    );
+                    Navigator.pop(context);
                   },
                   child: Text(
                     "Iniciar",
