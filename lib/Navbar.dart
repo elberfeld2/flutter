@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'main.dart';
+
 class Navbar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -60,7 +62,12 @@ class DesktopNavbar extends StatelessWidget {
                   color: Colors.pink,
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.all(Radius.circular(20.0))),
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => MyHomePage())
+                    );
+                  },
                   child: Text(
                     "Iniciar",
                     style: TextStyle(color: Colors.white),
