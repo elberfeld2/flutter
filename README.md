@@ -51,7 +51,7 @@ Se hiso un pequeño test con puppeteer para visualizar la interfaz den diferente
 
 #### 1366x768
 
-![Movil](img/Flutter_Test_1366x768.png)
+![Movil](./img/Flutter_Test_1366x768.png)
 
 
 
@@ -59,7 +59,7 @@ Se hiso un pequeño test con puppeteer para visualizar la interfaz den diferente
 
 Este test fue desarrollado en node con puppeteer
 
-```dart
+```js
 const puppeteer = require("puppeteer");
 
 async function test({w,h}){
