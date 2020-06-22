@@ -23,7 +23,7 @@ class LandingPage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 20.0),
               child: Text(
-                "Lorem input Lorem input Lorem input Lorem input Lorem input Lorem input Lorem inputLorem input Lorem input Lorem input Lorem input Lorem input Lorem input Lorem input",
+                "Me gusta programar y aprender cómo lograr que mis ideas se vuelvan realidad.",
                 style: TextStyle(fontSize: 16.0, color: Colors.white),
               ),
             ),
