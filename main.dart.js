@@ -38569,7 +38569,7 @@ z4:function(){var t="Animaci\xf3n de personajes virtuales en ambientes virtuales
 return H.b([new K.jf(q,t,r,s),new K.jf(q,t,r,s),new K.jf(q,t,r,s),new K.jf(q,t,r,s)],u.ow)}}
 K.v_.prototype={
 yz:function(a,b){var t=null,s=u.t,r=M.h7(t,T.h6(H.b([L.cb("Elberfeld Enrique Perez Geronimo.",A.by(t,t,C.j,t,t,t,t,t,t,t,t,40,t,C.Y,t,t,!0,t,t,t,t,t,t)),new T.c9(C.hR,L.cb("Me gusta programar y aprender c\xf3mo lograr que mis ideas se vuelvan realidad.",A.by(t,t,C.j,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t)),t),L.cb("Cont\xe1ctame.",A.by(t,t,C.j,t,t,t,t,t,t,t,t,20,t,C.Y,t,t,!0,t,t,t,t,t,t)),N.RL(L.cb("Correo :enrique5001@hotmail.com",A.by(t,t,C.j,t,t,t,t,t,t,t,t,12,t,t,t,t,!0,t,t,t,t,t,t)),t,C.li,new K.HW(this),new V.aB(0,0,0,0),t),Z.JS(C.aK,!1,L.cb("Telefono :2431135566",A.by(t,t,C.j,t,t,t,t,t,t,t,t,12,t,t,t,t,!0,t,t,t,t,t,t)),C.ag,new S.aA(0,1/0,0,1/0),0,2,!0,t,t,4,t,t,8,t,4,C.li,t,t,t,new K.HX(this),new V.aB(0,0,0,0),C.jJ,t,t,C.jP)],s),C.hM),t,t,t,t,t,a)
-return H.b([r,new T.c9(C.hR,new U.nA(M.a0w(t,t,new L.mC("assets/assets/images/lp_image.png",t,t)),a,t),t)],s)},
+return H.b([r,new T.c9(C.hR,new U.nA(M.a0w(t,t,new L.mC("images/lp_image.png",t,t)),a,t),t)],s)},
 M:function(a){return new A.kq(new K.HV(this),null)}}
 K.HW.prototype={
 $0:function(){T.tr(new T.tp("enrique5001@hotmail.com"))},
