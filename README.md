@@ -14,7 +14,10 @@ Este proyecto fue basado en dos videos de youtube.
 
 Primero hacer la interfaz esta debe ser responsiva.
 [https://www.youtube.com/watch?v=rpkKYQCioW0&t=1111s](https://www.youtube.com/watch?v=rpkKYQCioW0&t=1111s)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 27758d007e97c41aa6bd2f44b4c0b24d84b51b83
 Segundo generar la pagina a traves de Github actions.
 [https://www.youtube.com/watch?v=UAeoRJ-eTU](https://www.youtube.com/watch?v=UAeoRJ-eTUo)
 
