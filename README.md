@@ -4,7 +4,7 @@ Proyecto con flutter web
 
 ## Pagina
 
-Puedes ver la pagina aqui [https://elberfeld2.github.io/flutter/](https://elberfeld2.github.io/flutter/){:target="_blank"}
+Puedes ver la pagina aqui [https://elberfeld2.github.io/flutter/](https://elberfeld2.github.io/flutter/)
 
 <enrique5001@hotmail.com>
 
@@ -13,9 +13,9 @@ Puedes ver la pagina aqui [https://elberfeld2.github.io/flutter/](https://elberf
 Este proyecto fue basado en dos videos de youtube.
 
 Primero hacer la interfaz esta debe ser responsiva.
-[https://www.youtube.com/watch?v=rpkKYQCioW0&t=1111s](https://www.youtube.com/watch?v=rpkKYQCioW0&t=1111s){:target="_blank"}
+[https://www.youtube.com/watch?v=rpkKYQCioW0&t=1111s](https://www.youtube.com/watch?v=rpkKYQCioW0&t=1111s)
 Segundo generar la pagina a traves de Github actions.
-[https://www.youtube.com/watch?v=UAeoRJ-eTU](https://www.youtube.com/watch?v=UAeoRJ-eTUo){:target="_blank"}
+[https://www.youtube.com/watch?v=UAeoRJ-eTU](https://www.youtube.com/watch?v=UAeoRJ-eTUo)
 
 Por último, se agrego una nueva página para navegar entre ellas.
 
@@ -27,31 +27,31 @@ Se hiso un pequeño test con puppeteer para visualizar la interfaz den diferente
 
 #### 640x360
 
-![Movil](img/Flutter_Test_640x360.png)
+![Movil](img/Flutter_Test_640X360.png)
 
 #### 360x640
 
-![Movil](img/Flutter_Test_360x640.png)
+![Movil](img/Flutter_Test_360X640.png)
 
 ### Para móvil, pero para ver todo se aumentó la altura
 
 #### 640x1500
 
-![Movil](img/Flutter_Test_640x1500.png)
+![Movil](img/Flutter_Test_640X1500.png)
 
 #### 640x1500
 
-![Movil](img/Flutter_Test_640x1500.png)
+![Movil](img/Flutter_Test_640X1500.png)
 
 ### Para escritorio
 
 #### 768x1366
 
-![Movil](img/Flutter_Test_768x1366.png)
+![Movil](img/Flutter_Test_768X1366.png)
 
 #### 1366x768
 
-![Movil](./img/Flutter_Test_1366x768.png)
+![Movil](img/Flutter_Test_1366X768.png)
 
 
 
