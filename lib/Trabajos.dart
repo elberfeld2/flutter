@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 import 'Acerca_de_mi.dart';
 
-class LandingPage extends StatelessWidget {
-  String correo = "enrique5001@hotmail.com";
-  String telefono = "2431135566";
+class Trabajos extends StatelessWidget {
   List<Widget> pageChildren(double width, BuildContext context) {
     return <Widget>[
       Container(
@@ -14,7 +11,7 @@ class LandingPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text(
-              "Elberfeld Enrique Perez Geronimo.",
+              "Algunos de los trabajos son.",
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 40.0,
@@ -27,35 +24,6 @@ class LandingPage extends StatelessWidget {
                 style: TextStyle(fontSize: 16.0, color: Colors.white),
               ),
             ),
-            Text(
-              "Contáctame.",
-              style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  fontSize: 20.0,
-                  color: Colors.white),
-            ),
-            FlatButton(
-                materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                padding: EdgeInsets.all(0),
-                child: Text(
-                  "Correo :" + correo,
-                  style: TextStyle(fontSize: 12.0, color: Colors.white),
-                ),
-                onPressed: () {
-                  Clipboard.setData(ClipboardData(text: correo));
-                }),
-            RawMaterialButton(
-                constraints: BoxConstraints(),
-                materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                padding: EdgeInsets.all(0),
-                child: Text(
-                  "Telefono :" + telefono,
-                  style: TextStyle(fontSize: 12.0, color: Colors.white),
-                ),
-                onPressed: () {
-                  Clipboard.setData(ClipboardData(text: telefono));
-                }),
-            /*
             MaterialButton(
               color: Colors.white,
               shape: RoundedRectangleBorder(
@@ -68,11 +36,11 @@ class LandingPage extends StatelessWidget {
                 padding: const EdgeInsets.symmetric(
                     vertical: 20.0, horizontal: 40.0),
                 child: Text(
-                  "Mas de mi  ",
+                  "Mas de mi ",
                   style: TextStyle(color: Colors.red),
                 ),
               ),
-            )*/
+            )
           ],
         ),
       ),
@@ -82,7 +50,7 @@ class LandingPage extends StatelessWidget {
           "images/lp_image.png",
           width: width,
         ),
-      )
+      ),
     ];
   }
 

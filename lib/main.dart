@@ -42,7 +42,7 @@ class MyHomePage extends StatelessWidget {
         child: SingleChildScrollView(
           child: Column(
             children: <Widget>[
-              Navbar(),
+              Navbar("Quien soy"),
               Padding(
                 padding: const EdgeInsets.symmetric(
                     vertical: 20.0, horizontal: 40.0),
