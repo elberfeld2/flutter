@@ -1,8 +1,10 @@
+name: Build and Release apk
+
 on:
   push:
     tags:
     - a*
-name: Test, Build and Release apk
+
 jobs:
   build:
     name: Build APK

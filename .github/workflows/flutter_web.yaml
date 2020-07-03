@@ -4,6 +4,9 @@ on:
   push:
     tags:
     - w*
+
+# branches:
+#  - master
       
 jobs:
   build:
