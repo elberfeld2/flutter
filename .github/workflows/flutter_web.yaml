@@ -2,8 +2,8 @@ name: Flutter Web
 
 on:
   push:
-    branches:
-      - master
+    tags:
+    - w*
       
 jobs:
   build:
